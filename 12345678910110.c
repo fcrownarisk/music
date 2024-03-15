@@ -67,7 +67,7 @@ struct t9t10(){
         return t*floor(wwww - t10)+ u*ceil(wwww + t10)
     }
 }
-struct t11t0{
+struct t11t0(){
     int t11,t0;
     float t11t0;
     void t11t0(){
